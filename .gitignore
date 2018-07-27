@@ -59,3 +59,15 @@ typings/
 
 # next.js build output
 .next
+
+
+# bootstrap files
+LICENSE
+css/
+gulpfile.js
+img/
+js/
+package-lock.json
+package.json
+scss/
+vendor/
